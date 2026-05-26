@@ -12,11 +12,11 @@ Class 6: [R Functions](class06/class06.md)
 
 Class 7: [Machine Learning for Bioinformatics](class07/class07lab.md)
 
-Class 8: [Unsupervised Learning Mini Project]
+Class 8: [Unsupervised Learning Mini Project](class08/class08lab.md)
 
-Class 9: [Candy Mini Project]
+Class 9: [Candy Mini Project](class09/class09.md)
 
-Class 10: [Structural Bioinformatics pt 1]
+Class 10: [Structural Bioinformatics pt 1](class10/class10lab.md)
 
 Class 11: [Structural Bioinformatics pt 2 AlphaFold]
 
