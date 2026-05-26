@@ -1,2 +1,11 @@
-# bimm143_github
-My class work from BIMM143 at UC San Diego
+# Bioinformatics Class
+
+My class work from [BIMM143 at UC San Diego Spring 2026](https://bioboot.github.io/bimm143_S26/).
+
+## Index of Classes
+
+Class 4: [Introduction to R] 
+
+Class 5: [Data viz with ggplot2]
+
+Class 6: [R Functions]
