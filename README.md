@@ -28,4 +28,4 @@ Class 14: [RNA-Seq Mini Project](class14/class14.pdf)
 
 Class 18: [Mini Project - Investigating Pertussis Resurgence](class18/investigatingpertussis.md)
 
-Class 19: [Mini Project: Cancer Mutation Analysis](lab19.pdf)
+Class 19: [Mini Project: Cancer Mutation Analysis](class19/lab19.pdf)
